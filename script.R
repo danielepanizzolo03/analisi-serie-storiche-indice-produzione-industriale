@@ -1,6 +1,4 @@
-# source("Eserc2_2425.R")
 
-# setwd("c:/discod/didattica/serie storiche/ss2425/esercitazioni_R/esercitazione_2/")
 
 # carico libreria "sse"
 source('/Users/danielepanizzolo/Downloads/SEI/Terzo anno/Primo Semestre/Serie Storiche/Lab1/sse_v4.txt')
